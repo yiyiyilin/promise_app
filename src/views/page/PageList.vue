@@ -1,17 +1,15 @@
 <template>
-  <div id="app">
-    <router-view></router-view>
+  <div>
+      所有页面
   </div>
 </template>
 
 <script>
-
 export default {
-  name: 'app',
-  components: {
-  },
+
 };
 </script>
 
 <style>
+
 </style>
